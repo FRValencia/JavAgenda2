@@ -3,7 +3,7 @@ package com.raul.manager;
 import com.raul.model.Command;
 
 public class CommandParser {
-    public static String detectedParameter;             //esto sirve para que reconozca las entradas de teclado correctamente
+    //public static String detectedParameter;             //esto sirve para que reconozca las entradas de teclado correctamente
 
     public static Command parse(String text){
         if (text.equalsIgnoreCase("Quit") || text.equalsIgnoreCase("q")){

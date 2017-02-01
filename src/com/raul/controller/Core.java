@@ -34,7 +34,6 @@ public class Core {
 
 
 
-/*
     Agenda agenda = new Agenda();
 
     public void start() {
@@ -76,4 +75,3 @@ public class Core {
                     break;
             }
         }
-  */
